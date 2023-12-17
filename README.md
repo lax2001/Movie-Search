@@ -1,5 +1,5 @@
 
-# Hi, I'm Vivek Devkar! 👋
+# Hi, I'm LAXMIKANT TANGADE! 👋
 
 
 # ShowMyMovie
@@ -80,8 +80,4 @@ I am An ambitious Computer Technology Engineering student with an optimistic att
 
 Possess relevant professional experience gained in Web technology acquiring valuable insight into Implementation of the some using various projects.
 
-
-## 🔗 Links
-[![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/vivekdevkar123)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com//in/vivekdevkar123/)
 

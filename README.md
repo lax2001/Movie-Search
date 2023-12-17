@@ -23,10 +23,6 @@ This website is Responsive in any device (laptop or mobile)
 The website gives you information about movie cast, release date, imdb ration and many more.
 
 
-## Authors
-
-- [@Vivek_Devkar](https://github.com/vivekdevkar123)
-
 
 ## Contributing
 

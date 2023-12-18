@@ -43,7 +43,7 @@ Please adhere to this project's `code of conduct`.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at mrlaxmikanttangade2001@gmail.com
+If you have any feedback, please reach out to us at mr laxmikanttangade2001@gmail.com
 
 
 ## Run Locally

@@ -43,7 +43,7 @@ Please adhere to this project's `code of conduct`.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at mrvivekdevkar123@gmail.com
+If you have any feedback, please reach out to us at mrlaxmikanttangade2001@gmail.com
 
 
 ## Run Locally
@@ -51,7 +51,7 @@ If you have any feedback, please reach out to us at mrvivekdevkar123@gmail.com
 Clone the project
 
 ```bash
-  git clone https://github.com/vivekdevkar123/Movie-search.git
+  git clone https://github.com/laxmikanttangade2001/Movie-search.git
 ```
 
 Go to the project directory
